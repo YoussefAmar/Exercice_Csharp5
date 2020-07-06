@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\bin\Debug\Amar_Youssef_Fraction.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\bin\Debug\Amar_Youssef_Fraction.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\bin\Debug\Amar_Youssef_Fraction.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\obj\Debug\Amar_Youssef_Fraction.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\obj\Debug\Amar_Youssef_Fraction.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\obj\Debug\Amar_Youssef_Fraction.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Fraction\Amar_Youssef_Fraction\obj\Debug\Amar_Youssef_Fraction.pdb

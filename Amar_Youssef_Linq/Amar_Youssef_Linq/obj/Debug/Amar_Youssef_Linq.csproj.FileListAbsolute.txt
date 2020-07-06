@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\bin\Debug\Amar_Youssef_Linq.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\bin\Debug\Amar_Youssef_Linq.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\bin\Debug\Amar_Youssef_Linq.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\obj\Debug\Amar_Youssef_Linq.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\obj\Debug\Amar_Youssef_Linq.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\obj\Debug\Amar_Youssef_Linq.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_Linq\Amar_Youssef_Linq\obj\Debug\Amar_Youssef_Linq.pdb

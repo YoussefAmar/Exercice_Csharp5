@@ -1,0 +1,14 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\bin\Debug\Amar_match_football.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\bin\Debug\Amar_match_football.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\bin\Debug\Amar_match_football.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\obj\Debug\Amar_match_football.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\obj\Debug\Amar_match_football.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\obj\Debug\Amar_match_football.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match_football\obj\Debug\Amar_match_football.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\bin\Debug\Amar_match_football.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\bin\Debug\Amar_match_football.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\bin\Debug\Amar_match_football.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\obj\Debug\Amar_match_football.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\obj\Debug\Amar_match_football.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\obj\Debug\Amar_match_football.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_match_football\Amar_match\obj\Debug\Amar_match_football.pdb

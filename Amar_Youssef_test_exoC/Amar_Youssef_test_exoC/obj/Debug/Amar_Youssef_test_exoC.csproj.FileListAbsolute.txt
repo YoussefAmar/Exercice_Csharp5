@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\bin\Debug\Amar_Youssef_test_exoC.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\bin\Debug\Amar_Youssef_test_exoC.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\bin\Debug\Amar_Youssef_test_exoC.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\obj\Debug\Amar_Youssef_test_exoC.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\obj\Debug\Amar_Youssef_test_exoC.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\obj\Debug\Amar_Youssef_test_exoC.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Amar_Youssef_test_exoC\Amar_Youssef_test_exoC\obj\Debug\Amar_Youssef_test_exoC.pdb
